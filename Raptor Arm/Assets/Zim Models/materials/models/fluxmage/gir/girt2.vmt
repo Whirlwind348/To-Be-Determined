@@ -1,0 +1,6 @@
+"unlitgeneric"
+{
+	"$baseTexture" "models\Fluxmage/Gir/girt2"
+	"$halflambert" 1
+	"$model" 1
+}

@@ -1,0 +1,6 @@
+"unlitgeneric"
+{
+	"$baseTexture" "models\vand/tallestr/girt3"
+	"$halflambert" 1
+	"$model" 1
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\fluxmage/Gaz/gaztem"
+	"$halflambert" 1
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Fluxmage/Zim/zime"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1.0"
+	"$envmapsaturation" "[1.0 1.0 1.0]"
+	"$halflambert" 1
+	"$nocull" 1
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\/Tallestr/purplst"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\/Tallestr/purplst_mask"
+	"$envmapcontrast" "1.0"
+	"$envmapsaturation" "[1.0 1.0 1.0]"
+	"$model" 1
+}

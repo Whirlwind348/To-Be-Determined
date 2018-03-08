@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Fluxmage/Gir/girtemp2"
+	"$halflambert" 1
+}

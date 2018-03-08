@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\fluxmage/dib/dibtemp"
+	"$halflambert" 1
+}

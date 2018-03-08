@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\fluxmage/Membrane/Membtemp copy"
+	"$halflambert" 1
+	"$nocull" 1
+}
