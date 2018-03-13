@@ -68,6 +68,7 @@
      <Compile Include="Assets\MouseAimCamera.cs" />
      <Compile Include="Assets\MouseOver.cs" />
      <Compile Include="Assets\NewBehaviourScript.cs" />
+     <Compile Include="Assets\NewBehaviourScript1.cs" />
      <Compile Include="Assets\Pdeath.cs" />
      <Compile Include="Assets\Phys.cs" />
      <Compile Include="Assets\PlayerController.cs" />
