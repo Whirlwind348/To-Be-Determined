@@ -53,6 +53,7 @@
   <ItemGroup>
      <Compile Include="Assets\Crafting Mecanim Animation Pack FREE\Elements\Editor\ReviewConfig.cs" />
      <Compile Include="Assets\Crafting Mecanim Animation Pack FREE\Elements\Editor\ReviewWindowEditor.cs" />
+     <Compile Include="Assets\Poq Xert\GUIBuilder\Editor\GUIBuilderWin.cs" />
      <Compile Include="Assets\Simple Health Bar\Editor\SimpleHealthBarEditor.cs" />
      <Compile Include="Assets\Simple Health Bar\Editor\SimpleHealthBarWindow.cs" />
      <Compile Include="Assets\UIController\Editor\UIControllerInspector.cs" />
@@ -139,6 +140,9 @@
  </Reference>
  <Reference Include="UnityEditor.OSXStandalone.Extensions">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
+ </Reference>
+ <Reference Include="GUIBuilder">
+ <HintPath>C:/Users/CABROW13/Downloads/To-Be-Determined/Raptor Arm/Assets/Poq Xert/GUIBuilder/Editor/GUIBuilder.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>C:/Users/CABROW13/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>

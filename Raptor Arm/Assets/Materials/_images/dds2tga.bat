@@ -1,0 +1,1 @@
+texconv -ft TGA *.dds

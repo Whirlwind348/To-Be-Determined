@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ac4b52f1807c64f498807168069a5266
+timeCreated: 1522087811
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Irken
+  fontNames:
+  - Irken
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 84b99cbbfa829c6459df48c49ce70a4a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
